@@ -1,0 +1,25 @@
+1 = Desarrollo
+2 = Administrador Contrato AMSA
+3 = Administrador Contrato BHP
+4 = Administrador Contrato CMDIC
+5 = Administrador Contrato Glencore
+6 = Administrador Contrato Otras Mineras
+99 = Control Trafico
+100 = Cat
+
+Los Administradores de Contratos pueden Ingresar Extracostos???
+Los Administradores de Contratos pueden Ingresar EDITAR Extracostos??? 
+
+
+
+    
+Administrador_BHP@mintral.cl 1234
+Administrador_AMSA@mintral.cl  1234
+Administrador_glencore@mintral.cl 1234
+Administrador_CMDIC@mintral.cl 1234
+Administrador_otros@mintral.cl 1234
+Cat@mintral.cl 1234
+
+
+rodrigo.godoy@usach.cl eloyo1994 CAT
+rodrigo.godoy1@usach.cl

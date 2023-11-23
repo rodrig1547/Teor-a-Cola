@@ -1,0 +1,16 @@
+
+  <div class="row justify-content-center">
+    <div class="col-md-12 mb-2">
+      <h1 class="text-center">Hola Equipo, sientanse todos Bienvenidos  😃 👍 <hr></h1>
+      {% if(dataLogin.tipoLogin ==1) %}
+          <p class="text-center">Hola Soy <strong> {{ dataLogin.nombre }} {{ dataLogin.apellido }},</strong> Creador del Proyecto.😅 </p>
+          {% endif %}
+      {% if(dataLogin.tipoLogin ==2) %}
+          <p class="text-center">Hola <strong>{{ dataLogin.nombre }} {{ dataLogin.apellido }}, Administrador de Contratos</strong>. </p>
+          {% endif %}
+      {% if(dataLogin.tipoLogin == 3) %}
+      <p class="text-center">Hola <strong>{{ dataLogin.nombre }} {{ dataLogin.apellido }}, CAT</strong>. </p>
+          {% endif %}
+    </div>
+   
+  </div>
